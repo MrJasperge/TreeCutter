@@ -1,0 +1,12 @@
+main: jjj.treecutter.myplugin.Main
+name: TreeCutter
+version: 0.1
+author: Jasper
+description: Tree Cutter plugin
+commands:
+   mycommand:
+      description: Voorbeeld commando
+      usage: /command
+      permission-message: Sorry helaas jammer apekool
+   opme:
+      description: Op yourself on the server
